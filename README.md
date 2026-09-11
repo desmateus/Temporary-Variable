@@ -1,2 +1,2 @@
-# Temporary-Variable
+# Variável Temporária
 C code using temporary variables.
